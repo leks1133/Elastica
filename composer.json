@@ -23,7 +23,6 @@
         "symfony/deprecation-contracts": "^2.0 || ^3.0"
     },
     "require-dev": {
-        "aws/aws-sdk-php": "^3.155",
         "guzzlehttp/guzzle": "^7.2",
         "phpstan/phpstan": "^1.5",
         "phpstan/phpstan-phpunit": "^1.1",
@@ -31,7 +30,6 @@
         "symfony/phpunit-bridge": "^6.0"
     },
     "suggest": {
-        "aws/aws-sdk-php": "Allow using IAM authentication with Amazon ElasticSearch Service",
         "guzzlehttp/guzzle": "Allow using guzzle as transport",
         "monolog/monolog": "Logging request"
     },
